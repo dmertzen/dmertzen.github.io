@@ -28,11 +28,11 @@ author:
   bio              : "Research Data Management specialist | Open Science enthusiast"
   location         : "Berlin | Germany"
   employer         : "Freie Universität Berlin"
-  uri              : # URL
+  uri              : "https://www.fu-berlin.de/sites/forschungsdatenmanagement/ueber-uns/ueber-uns/index.html"
   email            : "daniela.mertzen@fu-berlin.de" 
 
   # Academic websites
-  academia         : "https://www.fu-berlin.de/sites/forschungsdatenmanagement/ueber-uns/ueber-uns/index.html"
+  academia         : #"https://www.fu-berlin.de/sites/forschungsdatenmanagement/ueber-uns/ueber-uns/index.html"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
@@ -134,7 +134,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
