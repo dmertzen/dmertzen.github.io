@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-💻 As part of the research data management (RDM) team at the Freie Universität Berlin, I support researchers who want to make their research output more transparent, reproducible and reusable! 
+💻 As part of the research data management (RDM) team at the Freie Universität Berlin, I support researchers who want to make their research output more transparent, reproducible and reusable. Why? Well, during my time as a researcher, I frequently found that data (that a published research result was based on) was not publically available (or shared upon request) which can hinder, for example, re-analyses or meta-analyses, so I think it's an important issue. 
 
 📊  I am an Open Science enthusiast, meaning I keenly support the idea that scientific research and its findings should be freely accessible to everyone. For questions, discussions, workshops, trainings, etc. on RDM or Open Science, get in touch!  
 
