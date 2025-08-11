@@ -17,25 +17,25 @@ Education
 
 Work experience
 ======
-* Since June 2025: Research Data Management specialist `|` RDM team 
-  * University library, FU Berlin  
+* Since June 2025: Research Data Management specialist \| RDM team 
+  * University library, FU Berlin<br><br>  
   
-* January 2022 to June 2025: Research staff `|` RDM team `|` Project IN-FDM-BB (Institutionalized and sustainable research data management in Brandenburg)
-  * University library, University of Potsdam  
+* January 2022 to June 2025: Research staff \|  RDM team \|  Project IN-FDM-BB (Institutionalized and sustainable research data management in Brandenburg)
+  * University library, University of Potsdam<br><br>  
   
 * July 2021 to December 2021: Researcher (Psycholinguistics) incl. teaching  
-  * Department of Linguistics, University of Potsdam  
+  * Department of Linguistics, University of Potsdam<br><br>  
   
-* July 2017 to June 2021: Researcher (Psycholinguistics) incl. teaching `|` SFB 1287 Limits of Variability in Language  
-  * Department of Linguistics, University of Potsdam  
+* July 2017 to June 2021: Researcher (Psycholinguistics) incl. teaching \|  SFB 1287 Limits of Variability in Language  
+  * Department of Linguistics, University of Potsdam<br><br>  
    
 * March 2017 to June 2017: Researcher (Psycholinguistics) incl. teaching  
-  * Department of Linguistics, University of Potsdam  
+  * Department of Linguistics, University of Potsdam<br><br>  
 
-* April 2015 to June 2017: Research assistant `|` tutor  
+* April 2015 to June 2017: Research assistant \|  tutor  
   * Department of Linguistics, University of Potsdam  
   * Tutor for Sentence processing and Eye-tracking  
-  * Research assistant in the sentence processing lab, implementing, running and processing of eye-tracking experiments  
+  * Research assistant in the sentence processing lab, implementing, running and processing of eye-tracking experiments<br><br>  
   
   
 
