@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
 * Ph.D. Linguistics, University of Potsdam, Germany  
 * M.Sc. International Master's Programme in Experimental and Clinical Linguistics, University of Potsdam, Germany
