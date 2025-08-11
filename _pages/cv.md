@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Since June 2025: Research Data Management specialist \| RDM team 
+* **Since June 2025: Research Data Management specialist  RDM team** 
   * University library, FU Berlin<br><br>  
   
-* January 2022 to June 2025: Research staff \|  RDM team \|  Project IN-FDM-BB (Institutionalized and sustainable research data management in Brandenburg)
+* **January 2022 to June 2025: Research staff \|  RDM team \|  Project IN-FDM-BB (Institutionalized and sustainable research data management in Brandenburg)**
   * University library, University of Potsdam<br><br>  
   
 * July 2021 to December 2021: Researcher (Psycholinguistics) incl. teaching  
