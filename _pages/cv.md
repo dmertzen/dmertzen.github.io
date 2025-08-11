@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic background"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Linguistics, University of Potsdam, Germany  
+* M.Sc. International Master's Programme in Experimental and Clinical Linguistics, University of Potsdam, Germany
+* B.A. Linguistics with English, Nottingham Trent University, United Kingdom  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since June 2025: Research Data Management specialist | RDM team 
+  * University library, FU Berlin
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2022 to June 2025: Research staff | RDM team | Project IN-FDM-BB (Institutionalized and sustainable research data management in Brandenburg)
+  * University library, University of Potsdam
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* July 2021 to December 2021: Researcher (Psycholinguistics) incl. teaching
+  * Department of Linguistics, University of Potsdam
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* July 2017 to June 2021: Researcher (Psycholinguistics) incl. teaching | SFB 1287 Limits of Variability in Language
+  * Department of Linguistics, University of Potsdam
+ 
+* March 2017 to June 2017: Researcher (Psycholinguistics) incl. teaching
+  * Department of Linguistics, University of Potsdam
+
+* April 2015 to June 2017: Research assistant | tutor
+  * Department of Linguistics, University of Potsdam
+  * Tutor for Sentence processing and Eye-tracking
+  * Research assistant in the sentence processing lab, implementing, running and processing of eye-tracking experiments
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
