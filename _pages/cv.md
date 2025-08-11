@@ -25,7 +25,7 @@ Work experience
 * **July 2021 to December 2021: Researcher (Psycholinguistics) incl. teaching**  
   * Department of Linguistics, University of Potsdam<br><br>  
   
-* **July 2017 to June 2021: Researcher (Psycholinguistics) incl. teaching \|  SFB 1287 Limits of Variability in Language  **
+* **July 2017 to June 2021: Researcher (Psycholinguistics) incl. teaching \|  SFB 1287 Limits of Variability in Language**
   * Department of Linguistics, University of Potsdam<br><br>  
    
 * **March 2017 to June 2017: Researcher (Psycholinguistics) incl. teaching** 
