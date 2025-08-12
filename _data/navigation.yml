@@ -8,10 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "Publications – Psycholinguistics"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Publications – Open Science/RDM"
     url: /talks/    
 
   - title: "Teaching"
