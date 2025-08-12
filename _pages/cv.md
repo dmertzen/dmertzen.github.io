@@ -16,7 +16,7 @@ redirect_from:
 Work experience
 ======
 * Since June 2025 
-  * **Research Data Management specialist  RDM team** 
+  * **Research Data Management specialist \| RDM team** 
   * University library, FU Berlin<br>
   
 * January 2022 to June 2025 
