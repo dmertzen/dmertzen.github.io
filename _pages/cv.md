@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic background"
-permalink: /Academic background/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
