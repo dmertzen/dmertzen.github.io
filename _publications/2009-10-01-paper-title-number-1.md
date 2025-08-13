@@ -1,3 +1,7 @@
+---
+permalink: /publications/
+---
+
 ### Publications
 
 - Daniela Mertzen, Anna Laurinavichyute, Brian Dillon, Ralf Engbert, and Shravan Vasishth (2024).  
