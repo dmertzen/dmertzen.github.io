@@ -3,8 +3,6 @@ title: "Publications -- Open Science / Research Data Management"
 permalink: /talks/
 ---
 
-## Research Data Management
-
 ### Publications
 
 - Heike Neuroth, Daniela Mertzen, Carsten Schneemann, Janine Straka & Ian Wolff (2024).  
