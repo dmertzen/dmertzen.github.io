@@ -87,15 +87,6 @@ permalink: /talks/
   **IN-FDM-BB Report R 1.2.2 Gemeinsame konzeptionelle Entwicklung von FDM-Beratung an den brandenburgischen Hochschulen**  
   _Zenodo_. [paper](https://doi.org/10.5281/zenodo.10014365)
 
-### Courses and Workshops
-
-- (How to) Make research data FAIRer. Workshop for researchers by the RDM team (U Potsdam) in cooperation with the Potsdam Graduate School. [link](https://pogs.ws.uni-potsdam.de/termin/detail?tid=82)
-
-- Zertifikatskurs „Forschungsdatenmanagement für Studierende“. Spring School 2024 der Landesinitiative für Forschungsdatenmanagement in Brandenburg, _Zenodo_. [OER materials](https://zenodo.org/record/7936966)
-
-- (How to) Make research data FAIRer. Workshop for researchers by the RDM team (U Potsdam) in cooperation with the Potsdam Graduate School. [link](https://pogs.ws.uni-potsdam.de/termin/detail?tid=39)
-
-- Zertifikatskurs „Forschungsdatenmanagement für Studierende“. Spring School 2023 der Landesinitiative für Forschungsdatenmanagement in Brandenburg, _Zenodo_. [OER materials](https://zenodo.org/record/7936966)
 
 ### OER course materials
 
