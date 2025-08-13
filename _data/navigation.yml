@@ -15,8 +15,8 @@ main:
   - title: "Publications – Psycholinguistics"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
     
   - title: "Background"
     url: /cv/
