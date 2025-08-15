@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-💻 As part of the research data management (RDM) team at the Freie Universität Berlin, I support researchers who want to make their research output more transparent, reproducible and reusable. Why? Well, during my time as a researcher, I frequently found that data (that a published research result was based on) was not publically available (or shared upon request) which can hinder, for example, re-analyses or meta-analyses, so I think it's an important issue. 
+💻 As part of the research data management (RDM) team at the Freie Universität Berlin, I support researchers who want to make their research output more transparent, reproducible and reusable. Why? Well, during my time as a researcher, I frequently found that –– for published research results –– the data and code (that the published results were based on) were not publically available, potentially hampering cumulative science. Making research output publically available allows others to verify results or re-use valuable research data for re-analyses or meta-analyses, increasing transparency and trust.
 
-📊  I am an Open Science enthusiast, meaning I keenly support the idea that scientific research and its findings should be freely accessible to everyone. For questions, discussions, workshops, trainings, etc. on RDM or Open Science, get in touch!  
+📊  I am an Open Science enthusiast, meaning I keenly support the idea that scientific research and its findings should be freely accessible to everyone. For questions, discussions, or collaborative workshops, trainings and events on RDM or Open Science, get in touch!  
 
 🎓 I completed my PhD in Linguistics (University of Potsdam) in 2022. My background is in psycholinguistics and my research focused on the underlying mechanisms of human sentence processing. In particular, I investigated similarity-based retrieval interference during real-time sentence comprehension in English, German and Russian, using the eyetracking-while-reading method. 
 
