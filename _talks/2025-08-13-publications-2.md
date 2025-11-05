@@ -32,6 +32,10 @@ permalink: /talks/
 
 ### Conference contributions
 
+- Joseph P. De Veaugh-Geiss & Daniela Mertzen (2025).
+  **The Climate Needs FAIR and FOSS: A Sustainability Perspective on Research Data and Software Management.**
+  INFORMATIK 2025. Gesellschaft für Informatik e.V., pp. 1089. Hochschule 2035. Potsdam. [slides](https://doi.org/10.18420/inf2025_92] (https://www.cs.uni-potsdam.de/hochschule2035/download/Vortrag/2025-09-19_de_veaugh-geiss_mertzen_fair-foss.pdf)
+
 - Maria Büttner, Boris Jacob, Daniela Mertzen, Christian Riedel & Kerstin Soltau (2025).  
   **Kooperation zwischen Universität und Informationsinfrastruktur – das Forschungsdatenrepositorium RADAR für Brandenburg.**  
   _E-Science-Tage._ 2025, Heidelberg, Germany. [slides](https://doi.org/10.5281/zenodo.15044781)
