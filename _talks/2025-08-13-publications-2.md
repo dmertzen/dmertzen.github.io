@@ -5,6 +5,9 @@ permalink: /talks/
 
 ### Publications
 
+- Joseph P. De Veaugh-Geiss & Daniela Mertzen (2025). **The Climate Needs FAIR and FOSS: A Sustainability Perspective on Research Data and Software Management.**
+  INFORMATIK 2025. Bonn: Gesellschaft für Informatik e.V., pp. 1089. Hochschule 2035. Potsdam. [DOI](https://doi.org/10.18420/inf2025_92)
+
 - Heike Neuroth, Daniela Mertzen, Carsten Schneemann, Janine Straka & Ian Wolff (2024).  
   **Nachhaltiges Forschungsdatenmanagement in Brandenburg. Auf dem Weg zu einer landesweiten Institutionalisierung.**  
   In: Klein, M., Krupka, D., Winter, C., Gergeleit, M., Martin, L. (Hrsg.): INFORMATIK 2024 – Lock-in or log out? Wie digitale Souveränität gelingt. Gesellschaft für Informatik, Bonn 2024, S. 2071–2078. [DOI](https://doi.org/10.18420/inf2024_181)
